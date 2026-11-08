@@ -8,7 +8,8 @@
     {
       "@id": "https://repolex.ai/r/argilla-io/selectra/commit/e903cce13cecb06fcb6914a398cd2fd72595a705",
       "git:hexsha": "e903cce13cecb06fcb6914a398cd2fd72595a705",
-      "repolex:parseStatus": "ast_complete"
+      "repolex:parseStatus": "parsed",
+      "repolex:parsedAt": "2026-11-08T02:18:33.134920+00:00"
     }
   ]
 }
