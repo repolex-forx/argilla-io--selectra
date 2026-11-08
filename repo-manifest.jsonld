@@ -1,0 +1,14 @@
+{
+  "@context": "https://repolex.ai/ontology/jsonld-context/repolex-context.jsonld",
+  "@id": "https://repolex.ai/r/argilla-io/selectra",
+  "@type": "gh:Repository",
+  "gh:name": "selectra",
+  "gh:owner": "argilla-io",
+  "repolex:trackedCommit": [
+    {
+      "@id": "https://repolex.ai/r/argilla-io/selectra/commit/e903cce13cecb06fcb6914a398cd2fd72595a705",
+      "git:hexsha": "e903cce13cecb06fcb6914a398cd2fd72595a705",
+      "repolex:parseStatus": "metadata_complete"
+    }
+  ]
+}
